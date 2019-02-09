@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<modules>
 		<module>split-service3</module>
-		<module>split-service2</module>
+		<module>split-service4</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
